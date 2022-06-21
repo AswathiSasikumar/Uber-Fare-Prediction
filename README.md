@@ -30,9 +30,9 @@ The dataset had lot of outliers and most of the variables were not normally dist
 from which distance was calculated.After cleaning the data ,Multiple regression using OLS statsmodels was used to develop a model with fare_amount as dependent variable.
 
 </b>Assumptions of Linear Regression:</b>
-Linearity
-Normality (Residuals)
-Homoscedasticity
+* Linearity
+* Normality (Residuals)
+* Homoscedasticity
 
 <b>Results</b>
 It was found that fare_Amount increases with distance which is obvious.It was found that fare_Amount tends to increase during non-peak hours.

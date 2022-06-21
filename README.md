@@ -2,7 +2,7 @@
 
 ![uber](https://user-images.githubusercontent.com/103409242/174770398-2a5bc539-ed14-4a23-af0c-e7b25198ae44.jpeg)
 
-Authors: Aswathi Sasikumar
+<b>Author: Aswathi Sasikumar</b>
 
 The project is about the world's largest taxi company Uber inc. Uber delivers service to lakhs of customers daily. 
 In this project I have created a multiple regression model which can predict fare for future transactions.
@@ -33,6 +33,23 @@ Linearity
 Normality (Residuals)
 Homoscedasticity
 
-
 <b>Results</b>
 It was found that fare_Amount increases with distance which is obvious.It was found that fare_Amount tends to increase during non-peak hours.
+
+<b>Future work</b>
+Modeling the data with other types of regression analysis techniques like logistic regression might give more accurate model.
+
+<b>For More Information</b>
+Please review our full analysis in our Jupyter Notebook or our presentation.
+For any additional questions, please contact ** Aswathi Sasikumar at kukkuaswathi@gmail.com
+
+
+<b>Repository Structure</b>
+Describe the structure of your repository and its contents, for example:
+
+├── README.md                           <- The top-level README for reviewers of this project
+├── student.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── DS_Project_Presentation.pdf         <- PDF version of project presentation
+├── data                                <- Both sourced externally and generated from code
+└── images                              <- Both sourced externally and generated from code
+

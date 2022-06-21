@@ -44,11 +44,14 @@ Please review our full analysis in our Jupyter Notebook or our presentation.
 For any additional questions, please contact ** Aswathi Sasikumar at kukkuaswathi@gmail.com
 
 
-<b>Repository Structure</b>
+## Repository Structure
+
 Describe the structure of your repository and its contents, for example:
 
-├── README.md                              <- The top-level README for reviewers of this project
-├── Uber_fare_prediction.ipynb                         <- Narrative documentation of analysis in Jupyter notebook
-├──  Uber_fare_prediction_Presentation.pdf           <- PDF version of project presentation
-├── data                                  <- Both sourced externally and generated from code
-
+```
+├── README.md                           <- The top-level README for reviewers of this project
+├── Uber_fare_prediction.ipynb   <- Narrative documentation of analysis in Jupyter notebook
+├── Uber_fare_prediction_Presentation.pdf         <- PDF version of project presentation
+├── data                                <- Both sourced externally and generated from code
+└── images                              <- Both sourced externally and generated from code
+```

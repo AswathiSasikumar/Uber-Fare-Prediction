@@ -18,7 +18,8 @@ The datset contains the following fields:
 * dropoff_latitude - the latitude where the meter was disengaged
 
 <b>Business Problem</b>
-Real-estate agency needs to provide advice to homeowners on what factors can increase the estimated value of their homes.The regression model developed in the project predicts the price of the house and identifies the parameters that can affect the price of the house.
+This project will help the stakeholder to predict the fare amount for the future transactions.
+
 
 <b>Data</b>
 This project uses the Uber data set from kaggle.It has 200000 data records
